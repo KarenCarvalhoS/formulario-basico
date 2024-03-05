@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+h1 {
+text-align: center;
+}
+
+.form-group {
+margin-bottom: 15px;
+}
